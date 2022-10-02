@@ -1,0 +1,62 @@
+# Nmap 7.80 scan initiated Sun Oct  2 09:26:51 2022 as: nmap -sP -oN report.log 192.168.1.1/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0045s latency).
+Nmap scan report for 277429c212042e433e262687.keenetic.io (192.168.1.2)
+Host is up (0.0041s latency).
+Nmap scan report for 192.168.1.30
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.1.53
+Host is up (0.089s latency).
+Nmap scan report for 192.168.1.65
+Host is up (0.030s latency).
+Nmap scan report for 192.168.1.66
+Host is up (0.0092s latency).
+Nmap scan report for 192.168.1.68
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.1.69
+Host is up (0.060s latency).
+Nmap scan report for 192.168.1.74
+Host is up (0.0078s latency).
+Nmap scan report for 192.168.1.80
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.1.82
+Host is up (0.0086s latency).
+Nmap scan report for 192.168.1.84
+Host is up (0.0072s latency).
+Nmap scan report for 192.168.1.85
+Host is up (0.0070s latency).
+Nmap scan report for 192.168.1.86
+Host is up (0.14s latency).
+Nmap scan report for 192.168.1.87
+Host is up (0.0060s latency).
+Nmap scan report for 192.168.1.95
+Host is up (0.12s latency).
+Nmap scan report for 192.168.1.100
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.1.107
+Host is up (0.10s latency).
+Nmap scan report for 192.168.1.115
+Host is up (0.010s latency).
+Nmap scan report for 192.168.1.130
+Host is up (0.0026s latency).
+Nmap scan report for vagrant (192.168.1.131)
+Host is up (0.0022s latency).
+Nmap scan report for 192.168.1.151
+Host is up (0.083s latency).
+Nmap scan report for 192.168.1.200
+Host is up (0.0073s latency).
+Nmap scan report for 192.168.1.201
+Host is up (0.0067s latency).
+# Nmap done at Sun Oct  2 09:27:01 2022 -- 256 IP addresses (24 hosts up) scanned in 9.48 seconds
+
+
+
+Retrieving speedtest.net configuration...
+Testing from Beltelecom (194.158.211.207)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Mobile TeleSystems JLLC (Minsk) [0.29 km]: 5.472 ms
+Testing download speed................................................................................
+Download: 62.34 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 50.06 Mbit/s
